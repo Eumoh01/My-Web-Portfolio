@@ -1,0 +1,66 @@
+body {
+  font-family: "Georgia", serif;
+  margin-left: 40px;
+  margin-right: 40px;
+  background-color: black;
+  text-align: center;
+}
+
+
+h1.big-title {
+  font-size: 100px;
+  font-weight:normal;
+  background-image:url(images/PittsburghSkyline.jpg);
+  text-align: center;
+  padding: 240px 100px 160px;
+  background-repeat: no-repeat;
+  margin-left: 40px;
+  margin-top: 20px;
+  color: #fff;
+  text-shadow: 0 0 10px #fff;
+               0 0 20px #fff;
+               0 0 40px #fff;
+               0 0 80px #fff;
+               0 0 120px #fff;
+  box-sizing: border-box;
+}
+
+
+
+p a{
+  font-size: 32px;
+  color: #fff;
+  text-shadow: 0 0 10px #fff;
+               0 0 20px #fff;
+               0 0 40px #fff;
+               0 0 80px #fff;
+               0 0 120px #fff;
+}
+
+
+h2 {
+  font-size: 85px;
+  color: cyan;
+  text-shadow: 0 0 10px cyan;
+               0 0 20px cyan;
+               0 0 40px cyan;
+               0 0 80px cyan;
+               0 0 120px cyan;
+}
+
+
+img{
+  position:relative;
+  height: 400px;
+  margin-top: 50px;
+  /* margin-left: 500px;
+  margin-right: 500px; */
+  box-sizing: border-box;
+  vertical-align: middle;
+  text-align: center;
+}
+
+p {
+  font-size: 32px;
+  color: white;
+}
